@@ -1,0 +1,16 @@
+# Sauvegardes temporaires
+*.bak
+*.tmp
+
+# Cache Python
+__pycache__/
+*.pyc
+
+# Environnements Python
+.venv/
+venv/
+
+# Secrets et configuration locale
+.env
+.env.*
+!.env.example
