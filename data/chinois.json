@@ -1,0 +1,27 @@
+[
+  {
+    "mot": "意思",
+    "pinyin": "yìsi",
+    "signification": "Signification, sens, intérêt",
+    "exemples": [
+      {
+        "chinois": "这是什么意思？",
+        "pinyin": "Zhè shì shénme yìsi?",
+        "francais": "Qu'est-ce que ça signifie ?"
+      },
+      {
+        "chinois": "这个电影很有意思。",
+        "pinyin": "Zhège diànyǐng hěn yǒu yìsi.",
+        "francais": "Ce film est très intéressant."
+      }
+    ],
+    "expression": {
+      "chinois": "摸鱼",
+      "pinyin": "mō yú",
+      "signification": "Glander discrètement au travail",
+      "exemple": "我今天在公司摸鱼。",
+      "exemple_pinyin": "Wǒ jīntiān zài gōngsī mō yú.",
+      "francais": "Aujourd'hui, je glande au bureau."
+    }
+  }
+]

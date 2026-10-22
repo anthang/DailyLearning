@@ -1,0 +1,17 @@
+[
+  {
+    "titre": "La chute de Constantinople",
+    "date": "1453",
+    "texte": "Le 29 mai 1453, Constantinople tombe aux mains des Ottomans, mettant fin à l'Empire byzantin."
+  },
+  {
+    "titre": "Le premier pas sur la Lune",
+    "date": "1969",
+    "texte": "Le 20 juillet 1969, Neil Armstrong devient le premier humain à marcher sur la Lune lors de la mission Apollo 11."
+  },
+  {
+    "titre": "La naissance du World Wide Web",
+    "date": "1989",
+    "texte": "En 1989, Tim Berners-Lee propose au CERN un système hypertexte qui donnera naissance au World Wide Web."
+  }
+]

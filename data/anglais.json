@@ -1,0 +1,29 @@
+[
+  {
+    "mot": "Run",
+    "type": "Verbe",
+    "sens": [
+      {
+        "traduction": "Courir",
+        "exemple": "I run every morning.",
+        "francais": "Je cours tous les matins."
+      },
+      {
+        "traduction": "Exécuter un programme",
+        "exemple": "Can you run this program?",
+        "francais": "Peux-tu exécuter ce programme ?"
+      },
+      {
+        "traduction": "Diriger, gérer",
+        "exemple": "She runs a company.",
+        "francais": "Elle dirige une entreprise."
+      }
+    ],
+    "expression": {
+      "texte": "Run out of",
+      "signification": "Ne plus avoir de quelque chose",
+      "exemple": "We've run out of time.",
+      "francais": "Nous n'avons plus de temps."
+    }
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "application": "DailyLearning",
+  "language": "fr",
+  "refresh": {
+    "mode": "daily",
+    "interval_days": 1,
+    "refresh_on_startup": true,
+    "manual_refresh": true
+  },
+  "modules": {
+    "histoire": true,
+    "geographie": true,
+    "culture": true,
+    "anglais": true,
+    "chinois": true,
+    "cyber": true
+  },
+  "quiz": {
+    "enabled": false
+  }
+}

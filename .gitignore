@@ -14,3 +14,12 @@ venv/
 .env
 .env.*
 !.env.example
+
+# Contenus générés automatiquement par Daily Learning
+widgets/DailyLearning/@Resources/*.inc
+widgets/DailyLearning/@Resources/*.txt
+
+# Clés API et configuration locale
+.env
+.env.*
+!.env.example

@@ -1,0 +1,15 @@
+[
+  {
+    "type": "reflexion",
+    "titre": "Le quantique menace-t-il les VPN ?",
+    "explication": "Des attaquants peuvent enregistrer aujourd'hui des communications chiffrées et tenter de les déchiffrer plus tard avec un ordinateur quantique suffisamment puissant.",
+    "a_retenir": "Harvest Now, Decrypt Later",
+    "precision": "Le risque dépend notamment des algorithmes cryptographiques utilisés.",
+    "outil": {
+      "nom": "Trivy",
+      "description": "Scanner de vulnérabilités pour conteneurs, dépendances et configurations."
+    },
+    "source": "",
+    "date_actualite": ""
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "titre": "Changer une roue",
+    "texte": "Une clé en croix permet de desserrer les écrous d'une roue. Un cric adapté sert à soulever le véhicule. Les écrous doivent être débloqués avant le levage, sur un sol stable."
+  },
+  {
+    "titre": "Pourquoi les avions volent-ils ?",
+    "texte": "Les ailes génèrent de la portance grâce aux différences de pression et à la déviation de l'air vers le bas. Cette force permet à l'avion de rester en vol."
+  },
+  {
+    "titre": "Pourquoi les batteries vieillissent-elles ?",
+    "texte": "Les batteries lithium-ion perdent progressivement de leur capacité à cause de réactions chimiques internes. La chaleur et les températures extrêmes accélèrent leur vieillissement."
+  },
+  {
+    "titre": "À quoi sert un multimètre ?",
+    "texte": "Un multimètre permet de mesurer notamment la tension, la résistance et le courant électrique. C'est un outil essentiel pour diagnostiquer des problèmes électriques."
+  },
+  {
+    "titre": "Comment fonctionne le GPS ?",
+    "texte": "Un récepteur GPS calcule sa position en exploitant les signaux et les temps de propagation provenant de plusieurs satellites."
+  }
+]
